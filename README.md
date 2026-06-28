@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## The Name is Doni, Nice to meet you 🫣
+- 🌱 I’m currently learning Javascript
 <!--
 **ItsDonProbably/ItsDonProbably** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
